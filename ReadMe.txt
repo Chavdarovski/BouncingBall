@@ -1,2 +1,2 @@
-Java Applet wiht bouncing Ball that changes color.
+Java Applet with bouncing Ball that changes color.
 Two bottons Start and Continue and Scroll for speed.
